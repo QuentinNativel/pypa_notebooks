@@ -1,0 +1,17 @@
+0	O   	Ceci
+0	O   	est
+0	O   	un
+0	O   	test
+0	O   	numéro
+0	B-ID	019
+0	O   	créé
+0	O   	par
+0	B-DO	Jean-Baptiste
+0	I-DO	LAVAL
+0	B-DA	aujourd'hui
+1	O   	C'est
+1	O   	trop
+1	O   	rigolo
+2	O   	J'ai
+2	B-AG	22
+2	I-AG	ans
